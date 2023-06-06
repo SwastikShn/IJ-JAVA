@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="826afb61-ee0e-4506-a8a2-e4be6076ada8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/first-ij-java-project/com/swastik/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/first-ij-java-project/com/swastik/TypeCasting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/swastik/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/swastik/TypeCasting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first-ij-java-project/com/swastik/TypeCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/first-ij-java-project/com/swastik/TypeCasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/swastik/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swastik/TypeCasting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

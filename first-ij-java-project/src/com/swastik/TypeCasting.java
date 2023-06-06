@@ -47,6 +47,17 @@ public class TypeCasting
 //        JAVA Follows UNICODE PRINCIPLE --> Can put any language into it. For eg. Hindi
 //        System.out.println("दरबार");
 
+//        If any term's data type in the operations is higher than the other, then the lower one is promoted to the higher and the value is returned in the higher data type
+//        System.out.println(3 * 4.432423f); //Promoted to Float; Result--> 13.29727
+        int a = 5;
+        char c = 'a';
+        float f = 24.1f;
+        short s = 987;
+        byte b = 23;
+        double d = 0.1234;
+        double result = a+c+f+s+b+d;
+        System.out.println(result); //Result--> 1136.2233755859374 as all are promoted to double for application of operations
+
     }
 
 }
